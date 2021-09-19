@@ -1,0 +1,39 @@
+#welcome-section {
+    background-color: #CCEEFF;
+    color: #084158;
+    padding-top: 0px;
+    margin-top: 0px;
+    display: block;
+    height: 30vh;
+  }
+  #welcome-section h1 {
+    font-type: monospace;
+  }
+  #projects {
+    background-color: #E74C9A;
+    color: #3E0220;
+  }
+  #projects button {
+    background-color: #F17AB6;
+  }
+  navbar {
+    positon: fixed;
+  }
+  img {
+    background-color: #A0D5F3;
+    border-color: #A0D5F3;
+  }
+  footer {
+    background-color: #A0D5F3;
+  }
+  #github {
+    background-color: #B3D0DF;
+  }
+  
+  #down {
+    background-color: #1C6186;
+  }
+  @media (max-width: 350px) {
+    margin-top: 1px;
+    background-color: yellow;
+  }
